@@ -8,11 +8,6 @@
 
 [教學文章：將 FastAPI 部署到 Render](https://andy6804tw.github.io/2025/11/30/deploy-fly-on-render/)
 
-## 範例端點
-
-部署完成的應用程式可以透過以下網址存取：
-
-[https://fastapi-fly-demo.fly.dev/](https://fastapi-fly-demo.fly.dev/)
 
 ## 本地端開發
 
